@@ -18,7 +18,7 @@
 - ☀️ Focused on integrating **AI models** into fullstack architectures.
 - ⚙️ Exploring advanced automation workflows, generative AI, and cloud deployments.
 - 📱 Tech content creator & community lead sharing insights at **[@betulversee](https://www.instagram.com/betulversee/)**.
-- 📫 How to reach me: **[Linkedin](www.linkedin.com/in/betül-karaylıoğlu-b230b427b)**
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/betül-karaylıoğlu-b230b427b/)**
 
 ## 🛠️ Tech Stack & Tools
 
