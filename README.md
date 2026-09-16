@@ -5,7 +5,7 @@
   <br><br>
   <i>"Building smart, scalable web solutions."</i>
   <br><br>
-  🇹🇷 Yazılım,yapay zeka,siber güvenlik ve bulut teknolojileri ile ilgileniyorum.
+  🇹🇷 Yazılım,yapay zeka,siber güvenlik ve bulut teknolojileri ile ilgileniyorum.<br>
   🇯🇵 フルスタック開発者。AIとクラウドアーキテクチャに情熱を注いでいます。<br>
   🇨🇳 全栈开发者，专注于人工智能与云架构。
 </div>
