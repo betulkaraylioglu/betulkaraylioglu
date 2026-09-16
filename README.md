@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, world! I'm Betül 👋🏻
 
-<!--
-**betulkaraylioglu/betulkaraylioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <strong>Computer Engineering Student | Fullstack Developer & AI Enthusiast</strong>
+  <br><br>
+  <i>"Building smart, scalable web solutions."</i>
+  <br><br>
+  🇹🇷 Yazılım,yapay zeka,siber güvenlik ve bulut teknolojileri ile ilgileniyorum.
+  🇯🇵 フルスタック開発者。AIとクラウドアーキテクチャに情熱を注いでいます。<br>
+  🇨🇳 全栈开发者，专注于人工智能与云架构。
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studying **Computer Engineering** (100% English)
+- ☀️ Focused on integrating **AI models** into fullstack architectures.
+- ⚙️ Exploring advanced automation workflows, generative AI, and cloud deployments.
+- 📱 Tech content creator & community lead sharing insights at **[@betulversee](https://www.instagram.com/betulversee/)**.
+- 📫 How to reach me: **[LinkedIn veya E-posta Adresini Buraya Ekle]**
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** C/C++, Python, JavaScript
+- **Frontend & Backend:** React, Node.js, FastAPI
+- **Cloud, AI & Automation:** Google Cloud, Docker, n8n, ComfyUI, Runway ML
+
+## 📊 GitHub Dynamics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betulkaraylioglu&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betulkaraylioglu&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
